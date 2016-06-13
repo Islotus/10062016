@@ -47,6 +47,7 @@ int test(void)
 	return 0;
 }
 
+
 int main()
 {
 	std::ifstream ifs("in_test.txt");
